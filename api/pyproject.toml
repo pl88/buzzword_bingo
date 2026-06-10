@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "my-api"
 version = "0.1.0"
 description = "Simple FastAPI scaffold for buzzword_bingo"
-requires-python = ">=3.11"
+requires-python = ">=3.14"
 dependencies = [
     "fastapi>=0.111.0",
     "pydantic-settings>=2.3.0",
